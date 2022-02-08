@@ -1,0 +1,24 @@
+{
+  "name": "learn-webpack-20220208",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChesterCabahug/learn-webpack-20220208.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChesterCabahug/learn-webpack-20220208/issues"
+  },
+  "homepage": "https://github.com/ChesterCabahug/learn-webpack-20220208#readme",
+  "devDependencies": {
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
